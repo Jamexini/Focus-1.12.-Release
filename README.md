@@ -1,4 +1,6 @@
-# focus timer
+# Focus-1.12-Release
+Own your time. Focus is a timer Chrome Extension to help you stay focused and productive.
+
 this is the timer for focus and stuff to stop scrolling and be productive or whatever
 
 how to get it on chrome:
@@ -10,3 +12,4 @@ how to get it on chrome:
 6. it should show up now so just pin it to your bar and lock in
 
 that is all really hope you like it :)
+
